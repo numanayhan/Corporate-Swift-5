@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-Label/Pods-Label-frameworks.sh
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
+${BUILT_PRODUCTS_DIR}/TinyConstraints/TinyConstraints.framework
+${BUILT_PRODUCTS_DIR}/ZSWTaggedString/ZSWTaggedString.framework
+${BUILT_PRODUCTS_DIR}/ZSWTappableLabel/ZSWTappableLabel.framework
