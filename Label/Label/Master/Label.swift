@@ -14,6 +14,7 @@ class Label: UIViewController {
         
         return lbl
     }()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
     }
