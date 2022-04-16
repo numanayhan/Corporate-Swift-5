@@ -18,6 +18,7 @@ class Launch: UIViewController {
         label.textColor = .white
         return label
     }()
+    
     weak var timer: Timer?
     override func viewDidLoad() {
         super.viewDidLoad()
